@@ -1,2 +1,2 @@
 # Alita-web-api
-```npm i alita-web-api```
+```npm i @mrwolfia/alita-web-api```
